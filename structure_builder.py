@@ -12,10 +12,10 @@ structure = {
         "requirements.txt",
         "app.py",
         "saved_model/",
-        "dataset/train/class1/",
-        "dataset/train/class2/",
-        "dataset/val/class1/",
-        "dataset/val/class2/"
+        "dataset/train/class_1/",
+        "dataset/train/class_2/",
+        "dataset/val/class_1/",
+        "dataset/val/class_2/"
     ]
 }
 
